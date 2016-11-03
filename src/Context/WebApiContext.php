@@ -408,4 +408,9 @@ class WebApiContext implements ApiClientAwareContext
 
         return $this->client;
     }
+    
+    protected function getResponse()
+    {
+        return $this->response;   
+    }
 }
