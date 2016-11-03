@@ -1,7 +1,7 @@
 {
-    "name": "behat/web-api-extension",
+    "name": "artox-lab/web-api-extension",
     "type": "behat-extension",
-    "description": "Web API extension for Behat",
+    "description": "Artox Lab Web API extension for Behat",
     "keywords": ["api", "test"],
     "homepage": "http://extensions.behat.org",
     "license": "MIT",
@@ -9,6 +9,10 @@
         {
             "name": "Christophe Coevoet",
             "email": "stof@notk.org"
+        },
+        {
+            "name": "Artur Turchin",
+            "email": "a.turchin@artox.com"
         },
         {
             "name": "Community contributors",
